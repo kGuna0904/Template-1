@@ -37,3 +37,18 @@
     width: 300px;
     align-items: center;
 }
+
+.small-img{
+    position: absolute;
+    top: 50%;
+    right: 65%;
+    width: 400px;
+}
+
+.hero-caption{
+    position: absolute;
+    top: 20%;
+    right: 65%;
+    width: 400px;
+    font-size: 4em;
+}

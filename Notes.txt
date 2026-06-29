@@ -1,0 +1,57 @@
+https://github.com/kGuna0904/Template-1.git
+
+/* code checking */
+
+<li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                Portfolio
+                            </a>
+                            <ul class="dropdown-menu">
+                                <li class="dropend">
+                                    <a class="dropdown-item dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                                        Portfolio 1
+                                    </a>
+                                    <ul class="dropdown-menu">
+                                        <li><a class="dropdown-item" href="#">1dsdfsdf</a></li>
+                                        <li><a class="dropdown-item" href="#">1dsdfsdf</a></li>
+                                        <li><a class="dropdown-item" href="#">1dsdfsdf</a></li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+
+
+
+                        <form role="search" method="get" id="searchform" onsubmit="return true" class=
+"navbar-form" action="https://themes . framework-y.com/techline"
+Y<div class="search-box-menu">
+Y<div class="search-box scrolldown fade-bottom" style="display: block; anima
+tion-duration: 300ms; transition-timing-function: ease; transition-delay: 0
+ms;">
+<input name="s" id="s" type="text" class="form-control" placeholder="Sear
+ch for
+<input type="submit" id="searchsubmit" value="GO">
+</div>
+Y<button class="btn btn-default btn-search" value="GO">
+Y<span class="fa fa-search">
+: : before
+
+</span>
+</button>
+
+
+
+
+
+<button class="btn btn-search" data-bs-toggle="collapse" data-bs-target="#searchcollapse" id="searchform">
+                                    <img class="search-icon" src="assets/images/search-icon.png">
+                                </button>
+
+                        <form class="collapse " role="search" id="searchcollapse" >
+                            <div class="search-box-menu ">
+                                <div class="search-box scrolldown fade-bottom input-group input-group-md">
+                                    <input type="text" class="form-control text-secondary" placeholder="Search for..">
+                                    <input type="submit" class="form-control" value="GO">                                    
+                                </div>
+                                
+                            </div> 

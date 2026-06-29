@@ -1,0 +1,39 @@
+.search-box{
+    
+    animation-duration: 300ms;
+    transition-delay: 30ms;
+    margin-top: 60px;
+    
+    width: 800px;
+    border: 9px solid rgb(237, 235, 235);
+    border-radius: 16px;
+    
+}
+
+.search-icon{
+    width: 20px;
+}
+
+
+#searchcollapse{
+    position: absolute;
+    right: 0;
+}
+
+#submit-btn{
+    width: 80px;
+    appearance: none;
+    background: none;
+    border: none;
+}
+
+.nav-link:hover{
+    
+    border-bottom: 1px solid blue; 
+}
+
+.col{
+    display: inline-block; 
+    width: 300px;
+    align-items: center;
+}
